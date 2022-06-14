@@ -1,2 +1,3 @@
-Xavi 3
-Josep 2
+Xavi 6
+Josep 6
+Clara 4

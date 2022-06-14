@@ -5,11 +5,12 @@ public class Usuari {
 	private String nom;
 	private int puntuacio;
 	
+	//Constructor
 	public Usuari(String nom, int puntuacio) {
 		this.nom=nom;
 		this.puntuacio=puntuacio;
 	}
-	
+	//Seters 6 getters
 	public void setNom(String nom) {
 		this.nom=nom;
 	}
@@ -18,6 +19,7 @@ public class Usuari {
 		return puntuacio;
 	}
 	
+	//Mètodes
 	
 	public void sumaPunt() {
 		puntuacio++;
